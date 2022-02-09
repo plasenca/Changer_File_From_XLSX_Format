@@ -13,13 +13,13 @@ It's a script totally in python which change an exisisting file name to another 
 
     - The first parameter is the path of xlsx file.
     - The second parameter is the path of the files will be changed.
-    ![script parameters](../_images/script_parameters.png)
+    ![script parameters](../master/_images/script_parameters.png)
 
 - Showing the exisisting file from the choosed directory
-![files_to](../_images/files_to.png)
+![files_to](../master/_images/files_to.png)
 
 - Showing the order of the columns of the xlsx file
-![columns_xlsx](../_images/columns_xlsx.png)
+![columns_xlsx](../master/_images/columns_xlsx.png)
 
 - Showing the return of the script
-![return_script](../_images/executing.png)
+![return_script](../master/_images/executing.png)
