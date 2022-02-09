@@ -1,5 +1,5 @@
 # Changer File From XLSX Format
-It's a script totally in python which change an exisisting file name to another name which is extracted from a xlsx file.
+It's a script totally in python which changes an exisisting file name to another name which is extracted from a xlsx file.
 
 ## Pay Attenttion
 - The path have to be indicated in the first argument on the command line.
