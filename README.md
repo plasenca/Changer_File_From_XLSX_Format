@@ -19,7 +19,7 @@ It's a script totally in python which change an exisisting file name to another 
 ![files_to](../master/_images/files_to.png)
 
 - Showing the order of the columns of the xlsx file
-![columns_xlsx](../master/_images/columns_xlsx.png)
+![columns_xlsx](../master/_images/order_columns.png)
 
 - Showing the return of the script
 ![return_script](../master/_images/executing.png)
